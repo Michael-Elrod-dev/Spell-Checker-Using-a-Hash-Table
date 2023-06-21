@@ -1,10 +1,3 @@
-/*
- * Name: Michael Elrod
- * Date Submitted: 10/13/2022
- * Lab Section: 002
- * Assignment Name: Spell Checker Using a Hash Table
- */
-
 #include "stringset.h"
 #include <iostream>
 #include <fstream>
