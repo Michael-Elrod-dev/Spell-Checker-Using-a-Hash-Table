@@ -1,4 +1,3 @@
-
 #include "stringset.h"
 
 Stringset::Stringset():table(4), num_elems(0), size(4) {}
