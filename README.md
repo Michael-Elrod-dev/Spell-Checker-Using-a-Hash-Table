@@ -6,6 +6,7 @@ A C++ program that implements a Stringset class utilizing a hash table with chai
 
 ```cpp
 #include "stringset.h"
+```
 
 The main functions in the program are:
 
